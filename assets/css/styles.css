@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+
+    color: blue;
+}
+
+li{
+    list-style-type: none ;
+
+}
+
+.imgperfil{
+    
+    height: 50%;
+    width: 50%;
+
+
+}
+
+.nombreperfil{
+    font-size: 2rem;
+}
+
+.banner{
+    display: flex;
+    justify-content: end;
+}
+
+#Sobre{
+    border-color: rgb(1, 182, 16);
+}
+
+.tex{
+    font-size: 5rem;
+}
+.inverlogo{
+    filter: invert(1);
+}
